@@ -8,7 +8,7 @@ https://www.googleapis.com/drive/v3/files/1WgGFD0X79TGhisAoYZ6w7A1LwqIBqrlW?alt=
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="INFO",UPDATE  09/01/2024
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="INFO",UPDATE HBO TRANVISION 16/02/2024
 https://www.googleapis.com/drive/v3/files/1qJytSOTdfQyDAfKFph1Bwgczq1T4RUIA?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
 
 
@@ -308,51 +308,41 @@ https://www.googleapis.com/drive/v3/files/1WgGFD0X79TGhisAoYZ6w7A1LwqIBqrlW?alt=
 
 
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="HBO PREMIUM",Cinemax HD Malayasia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
-https://as-proxy.openwindow040.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="HBO PREMIUM",Cinemax Maxtream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uB76Ft0.png" group-title="HBO PREMIUM",Cinemax HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cine.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+http://103.113.116.150:25461/mtm1/12345/20
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/1200px-Cinemax_(Yellow).svg.png" tvg-id="Cinemax.id" tvg-name="Cinemax" group-title="HBO PREMIUM",Cinemax Transvision
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uB76Ft0.png" tvg-id="Cinemax.id" tvg-name="Cinemax" group-title="HBO PREMIUM",Cinemax Transvision
+https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
  
  
 
 =================================================================================== HBO =================================================================================================
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="HBO PREMIUM",HBO HD maxtream
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png" tvg-id="HBO.id" tvg-name="HBO" group-title="HBO PREMIUM",HBO HD Transvision
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
-https://cdnjkt2.transvision.co.id:1003/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" tvg-id="HBO.id" tvg-name="HBO" group-title="HBO PREMIUM",HBO HD Transvision
+https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="HBO PREMIUM",HBO HD Malaysia
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="HBO PREMIUM",HBO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
-https://as-proxy.openwindow040.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
+http://103.113.116.150:25461/mtm1/12345/16
 
 
 
@@ -368,53 +358,41 @@ https://as-proxy.openwindow040.workers.dev/https://linearjitp-playback.astro.com
 
  
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="HBO PREMIUM",HBO Hits Maxtream
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbohitsmax.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
- 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="HBO PREMIUM",HBO Hits Transvision
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="HBO PREMIUM",HBO Hits Transvision
+https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png" group-title="HBO PREMIUM",HBO Hits HD Malaysia
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115" group-title="HBO PREMIUM",HBO Hits HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
-https://as-proxy.openwindow040.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
+http://103.113.116.150:25461/mtm1/12345/17
 
 
 
 ==================================================================== HBO FAMILY ==================================================================================================
 
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="HBO PREMIUM",HBO Family HD Malaysia
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="HBO PREMIUM",HBO Family HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
-https://as-proxy.openwindow040.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
+http://103.113.116.150:25461/mtm1/12345/19
 
 
 
-
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="HBO PREMIUM",HBO Family Maxtream
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbofammax.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
  
  
- #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20110407003848" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="HBO PREMIUM",HBO Family Transvision
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
- 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="HBO PREMIUM",HBO Family Transvision
+https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
  
  
 ===================================================================== HBO SIGNATURE =================================================================================----
@@ -424,22 +402,19 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 
 
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="HBO PREMIUM",HBO Signature Maxtream
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="HBO PREMIUM",HBO Signature HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbosigmax.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+http://103.113.116.150:25461/mtm1/12345/18
 
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="HBO PREMIUM",HBO Signature Tranvision
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
-https://cdnjkt2.transvision.co.id:1004/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="HBO PREMIUM",HBO Signature Tranvision
+https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 
 
