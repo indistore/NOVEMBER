@@ -8,7 +8,7 @@ https://www.googleapis.com/drive/v3/files/1WgGFD0X79TGhisAoYZ6w7A1LwqIBqrlW?alt=
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="INFO",UPDATE HBO  9/03/2024
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="INFO",UPDATE HBO  TRANSVISION 14/03/2024
 https://www.googleapis.com/drive/v3/files/1qJytSOTdfQyDAfKFph1Bwgczq1T4RUIA?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
 
 
@@ -284,7 +284,7 @@ https://www.googleapis.com/drive/v3/files/1WgGFD0X79TGhisAoYZ6w7A1LwqIBqrlW?alt=
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uB76Ft0.png" tvg-id="Cinemax.id" tvg-name="Cinemax" group-title="HBO PREMIUM",Cinemax Transvision
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
@@ -304,21 +304,21 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197964
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" tvg-id="HBO.id" tvg-name="HBO" group-title="HBO PREMIUM",HBO HD Transvision
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 
-#EXTINF:-1 group-title="HBO PREMIUM" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115", HBO1
+#EXTINF:-1 group-title="HBO PREMIUM" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115", HBO HD 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
 
 
-#EXTINF:-1 group-title="HBO PREMIUM" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115", HBO2
+#EXTINF:-1 group-title="HBO PREMIUM" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115", HBO HD 2
 http://iptvtree.net:8080/c4596f70/c3848d92/197972
 
 
-
-
+#EXTINF:-1 tvg-id="ROCKAction.sg" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="HBO PREMIUM",ROCK Action
+http://210.210.155.37/dr9445/h/h15/index.m3u8
 
 
 ===================================================================== HBO HITS =====================================================================================================
@@ -335,7 +335,7 @@ http://iptvtree.net:8080/c4596f70/c3848d92/197972
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="HBO PREMIUM",HBO Hits Transvision
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
@@ -364,7 +364,7 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/196480
  
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="HBO PREMIUM",HBO Family Transvision
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
  
@@ -391,7 +391,7 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="HBO PREMIUM",HBO Signature Tranvision
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
@@ -924,34 +924,34 @@ https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/
  
 
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN BOX OFFICE 1
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63099_&extension=ts
+
 
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN BOX OFFICE 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63100_&extension=ts
+
 
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN BOX OFFICE 3
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63102_&extension=ts
+
  
  
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN MOVIE ACTION 1
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31488_&extension=ts
+
 
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN MOVIE ACTION 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=33201_&extension=ts
+
  
  
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN MOVIE PREMIERE
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31492_&extension=ts
+
 
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN MOVIE PREMIER 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=33200_&extension=ts
+
  
  
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN MOVIE STARS
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31493_&extension=ts
+
 
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN MOVIE TURK
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31494_&extension=ts
+
  
  
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN SERIES 4
@@ -1187,53 +1187,13 @@ https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8?|Referer=
 
  
  
- 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TENNIS-CHANNEL.png" group-title="Sports", US.SP - TENNIS CHANNEL
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/3791
- 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-NBC-GOLF-CHANNEL.png" group-title="Sports", US.SP - NBC GOLF CHANNEL
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/17602
- 
- 
- 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-GAME-SHOW-NETWORK.png" group-title="Sports", US.SP - GAME SHOW NETWORK
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/17419
- 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-NBC.png" group-title="Sports", US.SP - NBC SN
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/53905
- 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-NBC-SPORTS.png" group-title="Sports", US.SP - NBC SPORTS
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/1085950
- 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-NBC-SPORTS.png" group-title="Sports", US.SP - NBC SPORTS NETWORK
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/53292
- 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-CW-NETWORK.png" group-title="Sports", US.SP - CW NETWORK
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/1069953
- 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-YES-NETWORK.png" group-title="Sports", US.SP - YES NETWORK
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/1089615
- 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-ESPN-U.png" group-title="Sports", US.SP - ESPN U
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/34602
- 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TBS.png" group-title="Sports", US.SP - TBS east
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/17891
- 
 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-UFC-TV.png" group-title="Sports", US.SP - UFC TV HD
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/53374
- 
-
- 
  
  
  
 
  
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",DIGISORT 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=803_&extension=ts 
- 
+
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",NOVA SPORT
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9250_&extension=ts
 
@@ -2256,4 +2216,4 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VaDrfKr.png" group-title="Music",XITE
-
+ 
