@@ -72,7 +72,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-name="PECINTA BOLA" tvg-logo="https://hometv.pw/logo/sports/bein_id.jpg" group-title="Sports",beIN Sports 1 (Indi)
+#EXTINF:-1 tvg-name="PECINTA BOLA" tvg-logo="https://hometv.pw/logo/sports/bein_id.jpg" group-title="PECINTA BOLA",beIN Sports 1 (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
